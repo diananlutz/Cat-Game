@@ -8,9 +8,8 @@
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
     <sprite>sprites\sprite1</sprite>
-    <sprite>sprites\rajah</sprite>
-    <sprite>sprites\rajah_ingame</sprite>
-    <sprite>sprites\rajah_ingame64</sprite>
+    <sprite>sprites\Rajah</sprite>
+    <sprite>sprites\Korra</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
